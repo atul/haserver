@@ -1,0 +1,2 @@
+# haserver
+home automation server
